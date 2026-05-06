@@ -100,7 +100,7 @@ Google Data Analytics Certificate (94.85% avg) ·
 Johns Hopkins Business Analytics with Excel  
 📍 Seville, Spain  
 
-[LinkedIn](https://www.linkedin.com/in/daniel-d%C3%ADaz-de-la-fuente-3b0835296/) | [GitHub](https://github.com/DeLabFuente/beverage-sales-dashboard)
+[LinkedIn](https://www.linkedin.com/in/daniel-d%C3%ADaz-de-la-fuente-3b0835296/) | [GitHub](https://github.com/DeLabFuente)
 
 
 > 📥 Dashboard file (.pbix) available on request 
