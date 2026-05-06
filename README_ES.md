@@ -89,6 +89,12 @@ Sincronizados en las 3 páginas:
 - 🍺 Bebidas Alcohólicas acapara la mayor parte 
   de las ventas totales
 
+## Dashboard Preview
+
+![Resumen Ejecutivo](pagina1_resumen_ejecutivo.png)
+![Canal y Región](pagina2_canal_region.png)
+![Top Productos](pagina3_top_productos.png)
+
 ## Autor
 **Daniel Díaz De La Fuente**  
 Analista de Datos en formación | 

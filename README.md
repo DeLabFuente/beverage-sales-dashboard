@@ -87,6 +87,12 @@ Synchronized across all 3 pages:
 - 🍺 Alcoholic Beverages account for the largest 
   share of total sales
 
+## Dashboard Preview
+
+![Resumen Ejecutivo](pagina1_resumen_ejecutivo.png)
+![Canal y Región](pagina2_canal_region.png)
+![Top Productos](pagina3_top_productos.png)
+
 ## Author
 **Daniel Díaz De La Fuente**  
 Aspiring Data Analyst | Power BI · SQL · Python · R  
